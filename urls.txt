@@ -1,1 +1,3 @@
 http://backend.course#Roman5917
+http://backend.course?name="Ярема Роман"&github_name=Roman5917&group="ФЕІ-21с"&subgroup="Підгрупа 2"
+
